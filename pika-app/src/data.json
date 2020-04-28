@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "/assets/images/vaporeon.png",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "/assets/images/charmander.png",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "/assets/images/bulbasaur.png",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "/assets/images/snorlax.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "/assets/images/squirtle.png",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "/assets/images/cyndaquil.png",
+      "clicked": false
+    },
+    {
+      "id": 7,
+      "image": "/assets/images/eevee.png",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "/assets/images/totodile.png",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "/assets/images/piplup.png",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "/assets/images/phamphy.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "/assets/images/chikorita.png",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "/assets/images/chimchar.png",
+      "clicked": false
+    }
+  ]
