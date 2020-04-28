@@ -2,7 +2,7 @@
 
 # Overview
 This a web game application where users click images of Pikachus in order to earn points. You win the game whenever you have clicked all 9 of the Pikachus. The only catch is that the Pikachus move in their location with every click...
-The Pikachu images were found at https://www.pexels.com/search/dog/.
+The Pikachu images were found at https://www.istockphoto.com/photos/pikachu.
 
 Technologies Used:
 React.js- UI
